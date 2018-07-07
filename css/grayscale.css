@@ -210,6 +210,16 @@ a:focus, a:hover {
   border-radius: 25px;
 }
 
+.availableTickets-section {
+  color: white;
+  /* background: url("../public/images/gray/people.jpg") no-repeat center center scroll; */
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .yourTickets-section {
   color: white;
   background: url("../public/images/gray/people.jpg") no-repeat center center scroll;
